@@ -1,0 +1,8 @@
+1. git clone https://github.com/Srinathmp/Mamba_Mentality.git
+2. cd Mamba_Mentality
+3. git checkout -b contributor
+4. code contribute.txt
+5. git add contribute.txt
+6. git commit -m "my first pr"
+7. git push origin contributor [Note this branch does not exist already on foked repo and will be created]
+8. Go to repo and pull request with appropriate message
