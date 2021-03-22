@@ -1,7 +1,8 @@
-1. git clone https://github.com/Srinathmp/Mamba_Mentality.git
+[Fork from the desired public repo, then go to your copy in github ]
+1. git clone https://github.com/Srinathmp/Mamba_Mentality.git[forked repo address]
 2. cd Mamba_Mentality
-3. git checkout -b contributor
-4. code contribute.txt
+3. git checkout -b contributor[make a new branch]
+4. code contribute.txt [make files and changes]
 5. git add contribute.txt
 6. git commit -m "my first pr"
 7. git push origin contributor [Note this branch does not exist already on foked repo and will be created]
